@@ -14,7 +14,7 @@ $ yarn add rhof
 
 ```javascript
 
-const rhof = require('rhof');
+const rhof = require('@gh-conf/rhof');
 
 (async () => {
   try {
