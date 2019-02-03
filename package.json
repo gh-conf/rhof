@@ -1,0 +1,39 @@
+{
+  "name": "@gh-con/rhof",
+  "version": "1.0.0",
+  "description": "Fetches all the contributors of a github repository and generates HOF for the readme file",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-conf/rhof.git"
+  },
+  "keywords": [
+    "gh-conf",
+    "rhof",
+    "hof",
+    "hall-of-fame",
+    "github-config",
+    "github-readme",
+    "readme",
+    "contributors"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh-conf/rhof/issues"
+  },
+  "homepage": "https://github.com/gh-conf/rhof#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
