@@ -1,6 +1,7 @@
 # rhof
 
 <!-- Add Badges here -->
+[![Contributors](https://img.shields.io/github/contributors/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/graphs/contributors)
 
 Fetch contributors list of github repository and generate hall of fame for github readme
 
