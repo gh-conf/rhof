@@ -2,6 +2,7 @@
 
 <!-- Add Badges here -->
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/graphs/contributors)
+[![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof)
 
 Fetch contributors list of github repository and generate hall of fame for github readme
 
