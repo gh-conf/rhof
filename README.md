@@ -7,7 +7,7 @@ Fetch contributors list of github repository and generate hall of fame for githu
 ## Install
 
 ```
-$ yarn add rhof
+$ npm i @gh-conf/rhof
 ```
 
 ## Usage
