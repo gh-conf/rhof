@@ -1,6 +1,7 @@
 # rhof
 
 <!-- Add Badges here -->
+[![Build](https://img.shields.io/travis/com/gh-conf/rhof.svg)](https://travis-ci.com/gh-conf/rhof)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/graphs/contributors)
 [![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof)
 
