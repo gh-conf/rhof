@@ -25,7 +25,7 @@ const rhof = require('@gh-conf/rhof');
     const repository = 'gh-rhof'; // github repository name
     const hof = await rhof(username, repository);
     console.log(hof);
-    // <a href='https://github.com/arshadkazmi42)'><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
+    // <a href='https://github.com/arshadkazmi42'><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
   } catch (error) {
     console.log(error);
   }
@@ -46,4 +46,4 @@ Read our contributing [guide](CONTRIBUTING.md) on getting started with contribut
 
 Thank you to all the contributors who help in making this project better :raised_hands:
 
-<a href="https://github.com/arshadkazmi42)"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
+<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
