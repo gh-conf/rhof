@@ -1,6 +1,6 @@
 {
   "name": "@gh-conf/rhof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches all the contributors of a github repository and generates HOF for the readme file",
   "main": "index.js",
   "scripts": {
