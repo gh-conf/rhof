@@ -4,6 +4,7 @@
 [![Build](https://img.shields.io/travis/com/gh-conf/rhof.svg)](https://travis-ci.com/gh-conf/rhof)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/graphs/contributors)
 [![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof)
+[![NPM Version](https://img.shields.io/npm/v/@gh-conf/rhof.svg)](https://www.npmjs.com/package/@gh-conf/rhof)
 
 Fetch contributors list of github repository and generate hall of fame for github readme
 
