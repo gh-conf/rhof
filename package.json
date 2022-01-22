@@ -36,7 +36,7 @@
   "dependencies": {
     "@gh-conf/gh-api": "^1.0.0",
     "@gh-conf/gh-conf-constants": "^1.0.3",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "strmat": "^1.0.0"
   }
 }
