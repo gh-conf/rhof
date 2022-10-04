@@ -1,5 +1,14 @@
 # rhof
 
+[![Build](https://github.com/gh-conf/rhof/actions/workflows/nodejs.yml/badge.svg)](https://github.com/gh-conf/rhof/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/rhof.svg)](https://www.npmjs.com/package/rhof)
+[![NPM Downloads](https://img.shields.io/npm/dt/rhof.svg)](https://www.npmjs.com/package/rhof)
+[![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof)
+[![LICENSE](https://img.shields.io/npm/l/rhof.svg)](https://github.com/gh-conf/rhof/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/commits/master)
+
+
 <!-- Add Badges here -->
 [![Build](https://img.shields.io/travis/com/gh-conf/rhof.svg)](https://travis-ci.com/gh-conf/rhof)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/rhof.svg)](https://github.com/gh-conf/rhof/graphs/contributors)
