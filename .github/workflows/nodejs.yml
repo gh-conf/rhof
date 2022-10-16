@@ -3,9 +3,13 @@ name: Node CI
 on: [push, pull_request]
   push:
     branches:
-      - master
+      - 'master'
   pull_request:
-    types: [opened, reopened]
+    types: 
+      - opened
+      - reopened
+    branches:
+      - 'master'
 
 jobs:
   build:
